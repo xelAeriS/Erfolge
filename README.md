@@ -57,6 +57,5 @@
 
 
  Fazit: Diese wissenschaftliche Grundlage ist so optimiert, dass maximale Synergien mit den anderen Themenbereichen bestehen und die wichtigsten mathematischen Prinzipien direkt verfügbar sind.
-ChatGPT:
 
 Die Wissenschaft & Technologie-Sektion in deiner Bio ist jetzt vollständig mit den 25 essenziellen Formeln gespeichert, einschließlich der 5 allgemeinen physikalischen Formeln und 20 spezialisierten neuen Formeln aus der Thesen-Datenbank.
